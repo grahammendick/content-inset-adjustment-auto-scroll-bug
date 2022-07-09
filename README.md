@@ -1,4 +1,4 @@
-# ScrollView doesn't reset scroll when contentInsetAdjustmentBehavior is automatic on the new React Native architecture
+# ScrollView doesn't reset inset when contentInsetAdjustmentBehavior is automatic on the new React Native architecture
 This repository contains 2 "Hello World" React Native apps. One is built with the old React Native architecture and the other is built with the new React Native architecture. The apps are the same. They each consist of 2 screens. The first screen has a button. When you press the button you're taken to the next screen which shows a message inside a` ScrollView` with `contentInsetAdjustmentBehavior` set to `automatic`.
 
 ## Steps to recreate the problem
